@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8da97d6a-4015-4575-99be-b4e6e86abace" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../PDS-TP2-java-master/tests/plus" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/.bloop/bloop.settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/.bloop/tp4_acf-test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/.bloop/tp4_acf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/.metals/metals.h2.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/.metals/metals.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/run/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/.bloop/bloop.settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/.bloop/tp4_acf-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/metals.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/metals.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/project/target/config-classes/$f5facc02262b0abb5c4e$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/project/target/config-classes/$f5facc02262b0abb5c4e.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/project/target/config-classes/$f5facc02262b0abb5c4e.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/config-classes/$be3feccd48e828eba15a$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/config-classes/$be3feccd48e828eba15a.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/config-classes/$be3feccd48e828eba15a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/_global/_global/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/compile/_global/_global/managedSourcePaths/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/compile/compile/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/compile/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/project/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/_global/updateSbtClassifiers/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/compile/bloopGenerate/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/compile/bloopPostGenerate/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/it/bloopGenerate/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/it/bloopPostGenerate/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/test/bloopGenerate/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/test/bloopPostGenerate/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/bloopGenerate/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/bloopPostGenerate/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/target/streams/it/bloopGenerate/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/target/streams/it/bloopPostGenerate/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/bloopGenerate/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/bloopPostGenerate/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/.idea/sonarlint/issuestore/5/5/55bcf3cde85f524318bfae68e0d5ad9d041c9c00" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/_global/_global/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/compile/_global/_global/managedSourcePaths/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/compile/compile/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/compile/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/project/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/Char$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/Char.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/Converter$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/Converter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/ParseError$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/ParseError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/Parser$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/Parser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/Plus$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/Plus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/PrettyPrinter$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/PrettyPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/Qmark$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/Qmark.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/Simplifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/Star$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/Star.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/String$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/String$Chara$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/String$Chara.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/String$char.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/library/Symbol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/main/Application$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/main/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/classes/simplifier/GUERIN/MySimplifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/update/update_cache_2.13/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/_global/_global/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/_global/_global/checkBuildSources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/_global/_global/managedSourcePaths/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/compile/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/mainClass/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/packageBin/_global/streams/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/packageBin/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/packageBin/_global/streams/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/TP5_ACF/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/scala-2.12/update/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/scala-2.12/update/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/_global/_global/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/_global/_global/checkBuildSources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/compile/_global/_global/managedSourcePaths/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/compile/compile/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP5_ACF/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ACO_2020_TP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ACO_2020_TP1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/.idea/TP4_ACF.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/.idea/TP4_ACF.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/project/target/streams/compile/_global/_global/compileSourceFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/project/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/src/main/scala/tp4/eval.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/src/main/scala/tp4/eval.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/src/main/scala/tp4/prettyPrinter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/src/main/scala/tp4/prettyPrinter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/scala-2.13/classes/tp4/Interpret$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/scala-2.13/classes/tp4/Interpret$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/scala-2.13/classes/tp4/Interpret.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/scala-2.13/classes/tp4/Interpret.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/scala-2.13/classes/tp4/Main$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/scala-2.13/classes/tp4/Main$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/scala-2.13/classes/tp4/Main$PrettyPrinter$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/scala-2.13/classes/tp4/PrettyPrinter$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/scala-2.13/classes/tp4/PrettyPrinter$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/scala-2.13/tp4_acf_2.13-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/scala-2.13/tp4_acf_2.13-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/scala-2.13/update/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/scala-2.13/update/update_cache_2.13/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/_global/_global/compileSourceFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/compile/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/compile/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/packageBin/_global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/packageBin/_global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/packageBin/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/TP4_ACF/target/streams/compile/packageBin/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/project/target/active.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/scala-2.12/tp4_acf_2.12-0.1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/scala-2.12/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/target/scala-2.12/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/_global/_global/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_ACF/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/_global/testListeners/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/_global/_global/compileSourceFileInputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/_global/_global/managedSourcePaths/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/bgRun/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/copyResources/_global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/exportedProductJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/mainClass/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/packageBin/_global/streams/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/packageBin/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/compile/packageBin/_global/streams/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/runtime/dependencyClasspathAsJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/runtime/exportedProductJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/runtime/fullClasspathAsJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/runtime/internalDependencyAsJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/_global/_global/compileSourceFileInputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/_global/_global/definedTestNames/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/_global/_global/managedSourcePaths/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/copyResources/_global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/copyResources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/definedTests/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/fullClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/loadedTestFrameworks/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP4_ACF/target/streams/test/test/_global/streams/out" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1l3eREHLJ4ZZ9MsJrYqFw67QKW8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8da97d6a-4015-4575-99be-b4e6e86abace" name="Default Changelist" comment="" />
+      <created>1606830193432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606830193432</updated>
+      <workItem from="1606830194958" duration="1558000" />
+      <workItem from="1606831769836" duration="1036000" />
+      <workItem from="1606832832014" duration="1120000" />
+      <workItem from="1606836709338" duration="597000" />
+      <workItem from="1607099588032" duration="519000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1606831013003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/-1920.-7.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1606831013003" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1606831559812">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/-1920.-7.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1606831559812" />
+  </component>
+</project>

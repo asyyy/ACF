@@ -1,0 +1,15 @@
+
+D	java:S108¡")Either remove or fill this block of code.(¿åÓúÿÿÿÿ
+D	java:S108²")Either remove or fill this block of code.(¿åÓúÿÿÿÿ
+E
+java:S1905¸")Remove this unnecessary cast to "String".(Õ­Ç„ùÿÿÿÿ
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(ÜÁü´
+<
+java:S1948@"&Make "bank" transient or serializable.(»ÊÒç
+^
+java:S3252D"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx
+D	java:S108ª")Either remove or fill this block of code.(¿åÓúÿÿÿÿ
+E
+java:S1905·")Remove this unnecessary cast to "String".(ÎÖŠ„ıÿÿÿÿ
+D
+java:S1604½"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ
